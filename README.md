@@ -3,7 +3,7 @@
 API service for issuing API keys, authenticating usage, charging Soroban balances, and exposing usage telemetry.
 
 This project is funded and governed by the Stellar Treasury system:
-https://github.com/YOUR-USERNAME/stellar-treasury
+https://github.com/Chibex-max/stellar-treasury
 
 ## Key Features
 

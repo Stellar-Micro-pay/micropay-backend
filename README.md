@@ -37,7 +37,7 @@ Client ──(x-api-key)──► Backend ──(charge)──► Soroban Contra
 
 ```bash
 # 1. Clone
-git clone https://github.com/Chibey-max/micropay-backend
+git clone https://github.com/Stellar-Micro-pay/micropay-backend
 cd micropay-backend
 
 # 2. Install
@@ -104,7 +104,7 @@ npm test
 
 | Repo | Purpose |
 |---|---|
-| [micropay-contracts](https://github.com/Chibey-max/micropay-contracts) | Soroban contract |
-| [micropay-frontend](https://github.com/Chibey-max/micropay-frontend) | Developer dashboard |
-| [micropay-docs](https://github.com/Chibey-max/micropay-docs) | Full documentation |
+| [micropay-contracts](https://github.com/Stellar-Micro-pay/micropay-contracts) | Soroban contract |
+| [micropay-frontend](https://github.com/Stellar-Micro-pay/micropay-frontend) | Developer dashboard |
+| [micropay-docs](https://github.com/Stellar-Micro-pay/micropay-docs) | Full documentation |
 | [stellar-treasury](https://github.com/Stellar-Treasury/Treasury-frontend) | Governing DAO |

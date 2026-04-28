@@ -3,7 +3,7 @@
 > Node.js API gateway and billing engine for the MicroPay platform.
 
 This project is funded and governed by the Stellar Treasury system:
-**https://github.com/YOUR-USERNAME/stellar-treasury**
+**https://github.com/Chibey-max/stellar-treasury**
 
 ---
 
@@ -37,7 +37,7 @@ Client ──(x-api-key)──► Backend ──(charge)──► Soroban Contra
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-USERNAME/micropay-backend
+git clone https://github.com/Chibey-max/micropay-backend
 cd micropay-backend
 
 # 2. Install
@@ -104,7 +104,7 @@ npm test
 
 | Repo | Purpose |
 |---|---|
-| [micropay-contracts](https://github.com/YOUR-USERNAME/micropay-contracts) | Soroban contract |
-| [micropay-frontend](https://github.com/YOUR-USERNAME/micropay-frontend) | Developer dashboard |
-| [micropay-docs](https://github.com/YOUR-USERNAME/micropay-docs) | Full documentation |
-| [stellar-treasury](https://github.com/YOUR-USERNAME/stellar-treasury) | Governing DAO |
+| [micropay-contracts](https://github.com/Chibey-max/micropay-contracts) | Soroban contract |
+| [micropay-frontend](https://github.com/Chibey-max/micropay-frontend) | Developer dashboard |
+| [micropay-docs](https://github.com/Chibey-max/micropay-docs) | Full documentation |
+| [stellar-treasury](https://github.com/Chibey-max/stellar-treasury) | Governing DAO |

@@ -8,3 +8,4 @@
 - Milestone 04: incremental delivery checkpoint for micropay-backend
 - Milestone 05: incremental delivery checkpoint for micropay-backend
 - Milestone 06: incremental delivery checkpoint for micropay-backend
+- Milestone 07: incremental delivery checkpoint for micropay-backend
